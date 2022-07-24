@@ -32,7 +32,6 @@ Dense alignment of both visible and non-visible points(including 68 key points).
 
 And the **visibility** of  points(1 for visible and 0 for non-visible).
 
-![alignment](Docs/images/alignment.jpg)
 
 * #### 3D Face Reconstruction
 
@@ -44,8 +43,6 @@ Get the 3D vertices and corresponding colours from a single image.  Save the res
 2. obj file can now also written with texture map(with specified texture size), and you can set non-visible texture to 0. 
 
 
-
-![alignment](Docs/images/reconstruct.jpg)
 
 
 
