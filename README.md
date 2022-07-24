@@ -6,7 +6,7 @@
 
 
 
-This is an official python implementation of PRN. 
+This is an un-official python implementation of PRN. I have made some changes in the original code and then used the model to experiment with it and get to know the results. <br> 
 
 PRN is a method to jointly regress dense alignment and 3D face shape in an end-to-end manner. More examples on Multi-PIE and 300VW can be seen in [YouTube](https://youtu.be/tXTgLSyIha8) .
 
