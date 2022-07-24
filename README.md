@@ -44,7 +44,9 @@ Get the 3D vertices and corresponding colours from a single image.  Save the res
 
 
 
+###Steps to run the repository
 
+-Follow the steps mentioned in the docx [File](https://github.com/chakshu-dhannawat/3d_Reconstruction_PRNet/blob/main/Steps%20to%20run%20PRNet%20Repository.docx).
 
 
 ## Acknowledgements
